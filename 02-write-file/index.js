@@ -1,7 +1,6 @@
 const fs = require('fs');
 const path = require('path');
 const { stdin,stdout,stderr } = process;
-const rl = require('node:readline');
 
 
 stdout.write('Ну ты и соня! Тебя даже вчерашний шторм не разбудил.. \n');
